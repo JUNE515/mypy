@@ -1,2 +1,2 @@
-# initial version
-print(1)
+# second version
+print(2)
